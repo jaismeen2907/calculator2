@@ -9,5 +9,9 @@ public class Calculator {
 	int a=10,b=10,c;
 	c=a-b;
 	System.out.println(c);
+
+	int a=10,b=20,c;
+	c=a/b;
+	System.out.println(c);
     }
 }
